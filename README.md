@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">Im Computer Engineering Student</h3>
-
+<h3 align="center">I am a 3rd year Computer Engineering student. I have 3 internship experiences in Embedded Systems Programming, Data Learning with Artificial Intelligence and Mobile Application Development with Swift. I produce projects especially in the field of mobile application programming with Swift and learn from sources such as Udemy. I have achieved competence in C, C +++ and Swift languages and I aim to take these skills further.  </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mkaana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkaana" height="30" width="40" /></a>
