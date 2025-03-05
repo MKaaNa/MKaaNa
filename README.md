@@ -1,65 +1,75 @@
-![MasterHead](https://raw.githubusercontent.com/anirudhajith/process-wallpaper/master/screenshot.png)
-
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">Computer Engineering Student | Full-Stack & Embedded Systems Developer</h3>
 
 <p align="center">
-  I am a 4th-year Computer Engineering student with extensive experience in Embedded Systems, Full-Stack Development, iOS Development, and Machine Learning. 
-  I have completed multiple internships in these areas, working with technologies such as STM32, React, Node.js, Swift, and Python.
-  My focus is on building scalable and efficient applications while continuously expanding my knowledge in software development and system design.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=print(%22Musa+Kaan+Altın%22);console.log(%22Musa+Kaan+Altın%22);System.out.println(%22Musa+Kaan+Altın%22);printf(%22Musa+Kaan+Altın%5Cn%22);cout+%3C%3C+%22Musa+Kaan+Altın%22;NSLog(@%22Musa+Kaan+Altın%22);" alt="Typing SVG" />
+</p>
+
+
+## 👨‍💻 About Me  
+I am a **4th-year Computer Engineering student** passionate about software development and system design.  
+Throughout my academic journey, I have completed **internships in Embedded Systems, Full-Stack Development (Frontend & Backend), iOS Development, and Machine Learning.**  
+I love building applications that are **efficient, scalable, and user-friendly**.  
+
+### 🛠 Areas I Enjoy Working In:  
+- **Full-Stack Development:** Frontend (React, Angular) & Backend (Node.js, Java Spring Boot, MySQL, PostgreSQL).  
+- **Embedded Systems:** STM32, Tiva C, UART, I2C, GPIO, Real-Time Applications.  
+- **iOS Development:** Native Swift & Firebase Backend Services.  
+- **Machine Learning & Data Science:** Applying ML techniques using NumPy, Pandas, Scikit-learn.  
+
+I am **constantly learning and improving my skills** by working on new projects and writing technical blogs! 🚀  
+
+---
+
+## 📌 Featured Projects  
+🔹 [**Full-Stack Banking App**](https://github.com/MKaaNa/fullstack-bank-app) - Secure online banking platform (React, Java Spring Boot, MySQL).  
+🔹 [**Chat App (Sockets)**](https://github.com/MkaaNa/chat-app) - Real-time chat with encryption & multi-user support (Python, WebSockets).  
+🔹 [**Instagram Clone**](https://github.com/MkaaNa/instagram-clone) - Social media app (Swift, Firebase).  
+🔹 [**Hotel Reservation System**](https://github.com/MKaaNa/OtelRezervasyon) - Online hotel booking platform (Angular, Java Spring Boot, MySQL).  
+
+---
+
+## ✍️ My Medium Articles  
+📖 [MPA & SPA](https://medium.com/@mkaanaltin/mpa-spa-1a37d3cc93f4)  
+📖 [Components in React](https://medium.com/@mkaanaltin/components-in-react-91a366876dfd)  
+📖 [Folder Structure In Frontend Projects (React)](https://medium.com/@mkaanaltin/folder-structure-in-frontend-projects-react-3559659b855a)  
+📖 [Introduction to Git & GitHub](https://medium.com/towardsdev/introduction-02fcf9c3bb1f)  
+
+---
+
+## 📈 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MkaaNa&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MkaaNa&theme=dark" height="150"/>
+</div>
+
+---
+
+## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,react,angular,nodejs,java,spring,cpp,c,python,mysql,postgresql,firebase,linux,git" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mkaana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkaana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mkaanaltin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mkaanaltin" height="30" width="40" /></a>
-<a href="https://github.com/MkaaNa" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
-### 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MkaaNa&show_icons=true&theme=radical)
-
----
-
-### 🎮 Fun Feature:
-🐍 A mini snake game for you to have fun while you review my profile! 🐍
-
+## 🎮 Fun Feature  
+🐍 **A mini snake game for you to have fun while you review my profile!** 🐍  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MKaaNa/MKaaNa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MKaaNa/MKaaNa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MKaaNa/MKaaNa/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+<a href="https://linkedin.com/in/mkaana" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+<a href="https://www.hackerrank.com/mkaanaltin" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30"/></a>
+<a href="https://github.com/MkaaNa" target="blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
+</p>
