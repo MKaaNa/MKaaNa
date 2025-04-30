@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack & Embedded Systems Developer</h3>
+<h3 align="center">CComputer Engineering Student | Full-Stack & iOS Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
