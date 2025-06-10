@@ -28,8 +28,8 @@ I am **constantly learning and improving my skills** by working on new projects 
 
 ## 📌 Featured Projects
 🔹 [**Full-Stack Banking App**](https://github.com/MKaaNa/fullstack-bank-app) - Secure online banking platform (React, Java Spring Boot, MySQL). *Implemented robust JWT authentication and secure transaction handling.*
-🔹 [**Hotel Reservation System**](https://github.com/MKaaNa/OtelFrontend) - Online hotel booking platform (Angular, Java Spring Boot, MySQL). *Achieved significant query performance optimization in PostgreSQL and ensured high security in payment systems.*
-🔹 [**Real-Time Embedded System Development**](https://github.com/MKaaNa/YourEmbeddedSystemRepo) - Developed optimized firmware for data acquisition and processing. *Focused on low-latency data processing and enhanced system reliability.*
+🔹 [**Hotel Reservation System**](https://github.com/MKaaNa/OtelWebHatas-z) - Online hotel booking platform (Angular, Java Spring Boot, MySQL). *Achieved significant query performance optimization in PostgreSQL and ensured high security in payment systems.*
+🔹 [**Real-Time Embedded System Development**](https://github.com/MKaaNa/) - Developed optimized firmware for data acquisition and processing. *Focused on low-latency data processing and enhanced system reliability.*
 🔹 [**Instagram Clone**](https://github.com/MKaaNa/InstagramClone) - Social media app (Swift, Firebase).
 🔹 [**Chat App (Sockets)**](https://github.com/MKaaNa/Chat-Application) - Real-time chat with encryption & multi-user support (Python, WebSockets).
 
