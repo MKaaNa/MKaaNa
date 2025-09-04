@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack, iOS & Embedded Systems Developer</h3>
+<h3 align="center">Computer Engineering Graduate | Full-Stack, iOS & Embedded Systems Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -7,31 +7,38 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=600&lines=print(%22Musa+Kaan+Altın%22);console.log(%22Musa+Kaan+Altın%22);System.out.println(%22Musa+Kaan+Altın%22);printf(%22Musa+Kaan+Altın%5Cn%22);cout+%3C%3C+%22Musa+Kaan+Altın%22;NSLog(@%22Musa+Kaan+Altın%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=8000&pause=1000&color=00FF00&center=true&vCenter=true&lines=print(%22Musa+Kaan+Alt%C4%B1n%22);console.log(%22Musa+Kaan+Alt%C4%B1n%22);System.out.println(%22Musa+Kaan+Alt%C4%B1n%22);printf(%22Musa+Kaan+Alt%C4%B1n%5Cn%22);" alt="Typing Name" />
 </p>
 
 
 ## 👨‍💻 About Me
-I am a **4th-year Computer Engineering student** passionate about software development and system design. My focus lies in creating **efficient, scalable, and secure applications** with a strong emphasis on **performance optimization**.
+I’m a **Computer Engineering graduate** passionate about building **efficient**, **scalable**, and **secure applications**.  
+My main focus areas are **Full-Stack Development**, **iOS Development**, and **Embedded Systems**, with a strong interest in **performance optimization**.
 
-Throughout my academic journey, I have completed **internships in Embedded Systems, Full-Stack Development (Frontend & Backend), iOS Development, and Machine Learning.** I am keen on **problem-solving** and continuously improving processes through **robust testing and quality assurance** practices.
-
-### 🛠 Areas I Enjoy Working In:
-- 🌐 **Full-Stack Development:** Frontend (React, Angular) & Backend (Node.js, Java Spring Boot, MySQL, PostgreSQL). *Experienced in creating efficient, scalable, and secure applications.*
-- ⚙️ **Embedded Systems:** STM32, Tiva C, UART, I2C, GPIO, Real-Time Applications. *Experienced in optimizing firmware for low-latency data processing and reliable system operation.*
-- 📱 **iOS Development:** Native Swift & Firebase Backend Services.
-- 🧠 **Machine Learning & Data Science:** Applying ML techniques using NumPy, Pandas, Scikit-learn. *Focused on developing accurate and performant models.*
-
-I am **constantly learning and improving my skills** by working on new projects and writing technical blogs! 🚀
+During my internships in **Embedded Systems, Full-Stack (Frontend & Backend), iOS Development, and Machine Learning**, I gained hands-on experience across multiple domains. I enjoy solving problems and developing reliable, real-world systems.
 
 ---
 
+### 🛠 Areas I Enjoy Working In
+- 🌐 **Full-Stack Development:** React, Angular, Node.js, Spring Boot, PostgreSQL/MySQL  
+- ⚙️ **Embedded Systems:** STM32, Tiva C, UART, I2C, GPIO, real-time applications  
+- 📱 **iOS Development:** Native Swift, Firebase backend  
+- 🧠 **Machine Learning & Data Science:** Python (NumPy, Pandas, Scikit-learn)  
+
+📌 Explore my work and resume on [my portfolio](https://mkaana.github.io).  
+I am **constantly learning**
+
+
 ## 📌 Featured Projects
-🔹 [**Full-Stack Banking App**](https://github.com/MKaaNa/fullstack-bank-app) - Secure online banking platform (React, Java Spring Boot, MySQL). *Implemented robust JWT authentication and secure transaction handling.*
-🔹 [**Hotel Reservation System**](https://github.com/MKaaNa/OtelWebHatas-z) - Online hotel booking platform (Angular, Java Spring Boot, MySQL). *Achieved significant query performance optimization in PostgreSQL and ensured high security in payment systems.*
-🔹 [**Real-Time Embedded System Development**](https://github.com/MKaaNa/) - Developed optimized firmware for data acquisition and processing. *Focused on low-latency data processing and enhanced system reliability.*
-🔹 [**Instagram Clone**](https://github.com/MKaaNa/InstagramClone) - Social media app (Swift, Firebase).
-🔹 [**Chat App (Sockets)**](https://github.com/MKaaNa/Chat-Application) - Real-time chat with encryption & multi-user support (Python, WebSockets).
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| [**Full-Stack Banking App**](https://github.com/MKaaNa/fullstack-bank-app) | React, Spring Boot, MySQL | JWT authentication & secure transactions |
+| [**Hotel Reservation System**](https://github.com/MKaaNa/OtelWebHatas-z) | Angular, Spring Boot, PostgreSQL | Real-time booking, Stripe integration |
+| [**Real-Time Embedded System**](https://github.com/MKaaNa/) | STM32, Tiva C | Optimized firmware for low-latency data |
+| [**Instagram Clone**](https://github.com/MKaaNa/InstagramClone) | Swift, Firebase | Real-time photo sharing app |
+| [**Chat App (Sockets)**](https://github.com/MKaaNa/Chat-Application) | Python, WebSockets | Encrypted real-time multi-user chat |
+
 
 ---
 
